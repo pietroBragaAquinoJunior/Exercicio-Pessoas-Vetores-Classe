@@ -41,6 +41,8 @@ public class Main {
 		
 		System.out.printf("Média das alturas: %.4f", soma/vetorPessoas.length);
 		
+		sc.close();
+		
 	}
 
 }
